@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+built/
+.DS_Store
+.env
+
+# Next.js
+.next/
+out/
+!
+*.log
+*.swp
+*.swo
+*~
+*.bak
